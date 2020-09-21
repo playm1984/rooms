@@ -1,0 +1,26 @@
+.gray{
+    float: right;
+    color: gray;
+} 
+
+.red{
+    color:red;
+    float: right;
+}
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px) 
+{
+   .a{
+       color: red;
+       font-size: 12px;
+   }
+   .ui.card>.content>.header, .ui.cards>.card>.content>.header a{
+    font-size: 1em;
+    color: red;
+   }
+
+   
+}

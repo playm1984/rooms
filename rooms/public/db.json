@@ -1,0 +1,162 @@
+[
+  {
+      "id": 0,
+      "title": "1-комнатная квартира, 40 м², 6/24 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 10к1",
+      "image": "https://foto.hrsstatic.com/fotos/0/3/256/256/80/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F0%2F5%2F6%2F5%2F%2Fteaser_056580.jpg/tjK9itVZBYFzoyklKM72tQ%3D%3D/1025%2C770/6/LikeHome_Apartments_Arbat-Moscow-Triple_room-10-56580.jpg",
+      "numbersOfRoom": "1",
+      "apartmentArea": "40 / 19 / 10",
+      "floor": "5",
+      "price": "8 500 000"
+  },
+  {
+      "id": 1,
+      "title": "2-комнатная квартира, 52 м², 5/8 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 10к1",
+      "image": "https://i.pinimg.com/474x/4a/43/1c/4a431c62fd3fbe2eb0fe2c1c27076b37.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 3,
+      "price": "7 800 000"
+  },
+  {
+      "id": 2,
+      "title": "2-комнатная квартира, 53 м², 12/17 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://image2.thematicnews.com/uploads/topics/preview/00/02/50/12/d13ac24edd_256crop.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 2,
+      "price": "9 300 000"
+  },
+  {
+      "id": 3,
+      "title": "3-комнатная квартира, 57 м², 9/9 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://williz.info/uploads/imgs/214/584acd5d8575f.jpg",
+      "numbersOfRoom": 3,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 4,
+      "price": "18 500 000"
+  },
+  {
+      "id": 4,
+      "title": "1-комнатная квартира, 40 м², 6/24 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://foto.hrsstatic.com/fotos/0/3/256/256/80/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F1%2F0%2F5%2F5%2F%2Fteaser_105599.jpg/N%2BHPTvJfNTJTA4RKjcbkiQ%3D%3D/1024%2C683/6/Hotel_na_Kazachyem-Moscow-Interior_view-12-105599.jpg",
+      "numbersOfRoom": 1,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 5,
+      "price": "8 500 000"
+  },
+  {
+      "id": 5,
+      "title": "2-комнатная квартира, 52 м², 5/8 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://foto.hrsstatic.com/fotos/0/3/256/256/80/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F5%2F7%2F8%2F8%2F%2Fteaser_578839.jpg/q9EEdzwIKYwWlDyp8%2FE02g%3D%3D/1024%2C788/6/Novotel_Moscow_City-Moscow-Junior_suite-578839.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 3,
+      "price": "7 800 000"
+  },
+  {
+      "id": 6,
+      "title": "2-комнатная квартира, 53 м², 12/17 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://i.pinimg.com/originals/e2/b0/6f/e2b06fc861ca5cd09c68574ea2c384da.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 2,
+      "price": "9 300 000"
+  },
+  {
+      "id": 7,
+      "title": "3-комнатная квартира, 57 м², 9/9 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://maralin.ru/img/catalog_covers/2900-15985532150.jpg",
+      "numbersOfRoom": 3,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 4,
+      "price": "18 500 000"
+  },
+  {
+      "id": 8,
+      "title": "1-комнатная квартира, 40 м², 6/24 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://maralin.ru/img/catalog_covers/2542-15796828330.jpg",
+      "numbersOfRoom": 1,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 5,
+      "price": "8 500 000"
+  },
+  {
+      "id": 9,
+      "title": "2-комнатная квартира, 52 м², 5/8 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://cdn-p.cian.site/images/2/990/988/kvartira-moskva-3y-lihachevskiy-pereulok-889099258-2.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 3,
+      "price": "7 800 000"
+  },
+  {
+      "id": 10,
+      "title": "2-комнатная квартира, 53 м², 12/17 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://maralin.ru/img/catalog_covers/2900-15985532150.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 2,
+      "price": "9 300 000"
+  },
+  {
+      "id": 11,
+      "title": "3-комнатная квартира, 57 м², 9/9 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://i.pinimg.com/originals/e2/b0/6f/e2b06fc861ca5cd09c68574ea2c384da.jpg",
+      "numbersOfRoom": 3,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 4,
+      "price": "18 500 000"
+  },
+  {
+      "id": 12,
+      "title": "1-комнатная квартира, 40 м², 6/24 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://cdn-p.cian.site/images/3/340/249/kvartira-moskva-ulica-shumilova-942043371-2.jpg",
+      "numbersOfRoom": 1,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 5,
+      "price": "8 500 000"
+  },
+  {
+      "id": 13,
+      "title": "2-комнатная квартира, 52 м², 5/8 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://cdn-p.cian.site/images/9/902/839/kvartira-moskva-ulica-gospitalnyy-val-938209905-2.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 3,
+      "price": "7 800 000"
+  },
+  {
+      "id": 14,
+      "title": "2-комнатная квартира, 53 м², 12/17 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://cdn-p.cian.site/images/2/889/288/kvartira-moskva-prospekt-budennogo-882988282-2.jpg",
+      "numbersOfRoom": 2,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 2,
+      "price": "9 300 000"
+  },
+  {
+      "id": 15,
+      "title": "3-комнатная квартира, 57 м², 9/9 эт.",
+      "address": "Москва, ЮЗАО, Бутово Южное, Скобелевская ул, 5к1",
+      "image": "https://cdn-p.cian.site/images/6/174/118/kvartira-moskva-dolgorukovskaya-ulica-811471662-2.jpg",
+      "numbersOfRoom": 3,
+      "apartmentArea": "40 / 19 / 10",
+      "floor": 4,
+      "price": "18 500 000"
+  }
+]
